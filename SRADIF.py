@@ -1,3 +1,11 @@
+"""
+How to Cite:
+
+J.K. Tavares, V. Gururajan, J. Jayachandran, Effects of radiation heat loss on planar and spherical
+hydrofluorocarbon/air flames, Combust. Flame 258 (2023) 113067.
+
+"""
+
 def OTLEMS_NIST(Tsol):
     #Based on given NIST radiation absorption coefficients
     if Tsol > 2900.0e0: Tsol = 2900.0e0
