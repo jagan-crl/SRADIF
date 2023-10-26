@@ -1,3 +1,11 @@
+"""
+How to Cite:
+
+J.K. Tavares, V. Gururajan, J. Jayachandran, Effects of radiation heat loss on planar and spherical
+hydrofluorocarbon/air flames, Combust. Flame 258 (2023) 113067.
+
+"""
+
 import cantera as ct
 import numpy as np
 import SRADIF as OTL
